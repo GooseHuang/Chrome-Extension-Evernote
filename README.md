@@ -12,7 +12,7 @@ Download the code folder and load them into Chorme extension.
 ## Steps
 ### Save
 * Step1 - Enter the index to help you remind.   
-        Please make index as simple as possible, like "sf" to index function named "searchFolders". 
+        Please make sure index is set as simple as possible, like "sf" to index function named "searchFolders". 
 * Step2 - Enter the code blocks you want to save.
 * Step3 - Press Save button.
 
