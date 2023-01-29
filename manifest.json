@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Timer Extension",
+  "name": "Evernote Reminder",
   "version": "1.0.0",
-  "description": "Hello Chrome World!",
+  "description": "Help quick save and retrieving code for daily use.",
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
@@ -14,7 +14,7 @@
       "24": "icon.png",
       "32": "icon.png"
     },
-    "default_title":"Timer Extension Action Title",
+    "default_title":"Evernote Reminder",
     "default_popup":"popup.html"
   },
   "permissions":["storage","unlimitedStorage"]
