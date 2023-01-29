@@ -1,6 +1,8 @@
 # Chrome Extension Evernote Reminder
 
 
+<img src="https://user-images.githubusercontent.com/17609819/215317654-0f785b0d-cf7b-4ee2-9870-3a02ccaf5994.png" width="350" height="400">
+
 ## Usage
 Help quick save and retrieving code for daily use.
 
