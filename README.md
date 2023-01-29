@@ -19,7 +19,7 @@ Download the code folder and load them into Chorme extension.
 ### Retrieve
 * Step1 - Enter the index you previous used.
 * Step2 - Press Search button. The result will show below.
-* Step3 - Press Copy button to copy the code to clipboard.
+* Step3 - Press Copy button to copy the code to clipboard for other usage.
 
 
     ![image](https://user-images.githubusercontent.com/17609819/215316501-0a0c39ac-2116-45a1-b17c-8f764724ca26.png)
