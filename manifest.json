@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Evernote Reminder",
   "version": "1.0.0",
-  "description": "Help quick save and retrieving code for daily use.",
+  "description": "Help quick save and retrieve code for daily use.",
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
